@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(255, 251, 0);
+  }
+  
+  h1 {
+    color: rgb(150, 2, 2);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  button{
+      color: rgb(150,2,2);
+      background-color: rgb(155, 2, 2);
+      }
+
+    p{
+        color: rgb(150, 2, 2);
+        font-family: Arial, Helvetica, sans-serif;
+    }
